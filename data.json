@@ -1,0 +1,21 @@
+ {
+     "statisticsByDevice": {
+         "tablet": {
+             "percentageRevenue": 60,
+             "revenue": 120000,
+             "percetageImpresions": 40,
+             "impresions": 20000000,
+             "percentageVisits": 80,
+             "visits": 480000000
+         },
+
+         "smartphone": {
+             "percentageRevenue": 40,
+             "revenue": 80000,
+             "percetageImpresions": 60,
+             "impresions": 30000000,
+             "percentageVisits": 20,
+             "visits": 120000000
+         }
+     }
+ }

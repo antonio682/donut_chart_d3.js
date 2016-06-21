@@ -1,0 +1,39 @@
+@import url(https://fonts.googleapis.com/css?family=Roboto);
+body{
+  font-family: 'Roboto', sans-serif;
+}
+svg {
+/*  border: 1px solid red; */
+  margin-left: 11%;
+}
+
+.tableLeft{
+  text-align: right;
+  text-weight: bold;
+  color: grey;
+  font-weight: bolder;
+}
+
+.tableRight{
+  color: grey;
+  font-weight: bolder;
+}
+
+td {
+  font-weight: bolder;
+}
+.text-center{
+  color: grey;
+  brackground-color: red;
+  font-weight:bold;
+  font-size: 1.5em;
+}
+/*#donutChart1{
+  border: 1px solid olive;
+}
+#donutChart2{
+  border: 1px solid orange;
+}
+#donutChart3{
+  border: 2px solid red;
+}*/
